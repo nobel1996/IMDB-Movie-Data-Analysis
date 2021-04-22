@@ -1,6 +1,5 @@
 ﻿#  Investigating characteristics of movies using IMDB dataset
 
-<img src="./dataset-cover.png" width="100%">
 
 ## Introduction
 
